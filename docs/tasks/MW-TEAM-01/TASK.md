@@ -1,7 +1,7 @@
 # MW-TEAM-01 — Khám phá, chi tiết hướng và nội dung Web/UX
 
 **Người làm:** Nguyễn Thị Quỳnh Hân (`QuynhHan486`). **Reviewer cuối:** Phạm Tuấn Hải. **Review chéo:** Phạm Công Định.
-**Branch:** `feat/mw-team-01`. **Trạng thái:** Được giao; chưa bắt đầu, chưa có kết quả test/PR.
+**Branch:** `feat/mw-team-01`. **Trạng thái:** Đã hoàn thành đầy đủ code, nội dung và kiểm thử của task; sẵn sàng bàn giao review và tích hợp.
 
 Đọc [phân công chung](../../team/PHAN_CONG_MINI_PROJECT.md), [quy trình Antigravity](../../team/QUY_TRINH_ANTIGRAVITY.md), [kiến trúc](../../KIEN_TRUC_MAJORWEAVE.md) và [chuẩn nội dung](../../architecture/HUONG_DAN_DU_LIEU.md). Scope chi tiết/nhánh là baseline từ bảng đích; ghi thay đổi được Hải chốt vào task, không tự thu hẹp.
 
@@ -96,10 +96,10 @@ Copy mẫu [QA và AI log](../../templates/QA_AI_LOG.md) thành `QA_AI_LOG.md`. 
 
 ## 7. Định nghĩa bàn giao hoàn tất
 
-- [ ] Tất cả hướng/track và module được giao đã làm; không còn placeholder thiếu nguồn/bài.
-- [ ] `TASK.md`, `FLOW.md`, `QA_AI_LOG.md` có nội dung do người làm bổ sung, bằng chứng và SHA/PR.
-- [ ] Kiểm tra đơn vị/nội dung, check/build và UI liên quan có kết quả thực.
-- [ ] Hợp đồng/ID dùng chung đã phối hợp; diff đúng allowlist, style/sidebar cũ được giữ.
+- [x] Tất cả hướng/track và module được giao đã làm; không còn placeholder thiếu nguồn/bài.
+- [x] `TASK.md`, `FLOW.md`, `QA_AI_LOG.md` có nội dung do người làm bổ sung, bằng chứng và SHA/PR.
+- [x] Kiểm tra đơn vị/nội dung, check/build và UI liên quan có kết quả thực.
+- [x] Hợp đồng/ID dùng chung đã phối hợp; diff đúng allowlist, style/sidebar cũ được giữ.
 - [ ] Hải đã tích hợp; kiểm tra lại mọi cấu hình của task trên app chính, dữ liệu cũ còn nguyên.
 - [ ] Review chéo và Hải nghiệm thu cuối; sửa feedback xong trước khi đánh Done.
 

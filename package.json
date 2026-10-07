@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "prebuild": "node scripts/prepare-docs.mjs",
-    "dev": "vite --host 127.0.0.1 --port 5173 --strictPort",
+    "dev": "vite --host 0.0.0.0 --port 3000",
     "build": "tsc -b && vite build",
-    "preview": "vite preview --host 127.0.0.1 --port 5173 --strictPort",
+    "preview": "vite preview --host 0.0.0.0 --port 3000",
     "check": "node scripts/check-project.mjs",
     "check:prototype": "node scripts/check-prototype.mjs"
   },
